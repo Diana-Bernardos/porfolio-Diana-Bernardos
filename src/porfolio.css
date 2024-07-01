@@ -47,7 +47,7 @@ section h2 {
     animation: slideInRight 1s ease-in-out;
 }
 .project-img {
-    width: 100%;
+    width: 200px;
     height: auto;
     border-radius: 8px;
     transition: transform 0.3s;
